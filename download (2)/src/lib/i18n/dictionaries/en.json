@@ -1,0 +1,241 @@
+
+{
+    "header": {
+        "brand": "Ocean Gates",
+        "home": "Home",
+        "services": "Services",
+        "about": "About Us",
+        "contact": "Contact"
+    },
+    "footer": {
+        "brand": "Ocean Gates",
+        "tagline": "Delivering logistics excellence across the globe for over 25 years. Your trusted partner in transportation and customs clearance.",
+        "quickLinks": "Quick Links",
+        "links": {
+            "home": "Home",
+            "services": "Services",
+            "about": "About Us",
+            "contact": "Contact"
+        },
+        "contactUs": "Contact Us",
+        "address": "123 Logistics Ave, Dubai, UAE",
+        "email": "contact@oceangates.com",
+        "phone": "+971 4 123 4567",
+        "copyright": "© {year} Ocean Gates Logistics. All Rights Reserved."
+    },
+    "home": {
+        "hero": {
+            "title": "Ocean Gates – Delivering Logistics Excellence",
+            "subtitle": "Your trusted partner for seamless customs clearance, international shipping, and end-to-end logistics solutions. We connect your business to the world.",
+            "button": "Our Services",
+            "imageAlt": "Logistics truck on a highway"
+        },
+        "services": {
+            "title": "Our Core Services",
+            "subtitle": "We offer a comprehensive suite of logistics services to meet your business needs.",
+            "list": [
+                { "icon": "CustomsClearance", "title": "Customs Clearance", "description": "Navigate complex customs regulations with our expert clearance services." },
+                { "icon": "InternationalShipping", "title": "International Shipping", "description": "Reliable and efficient freight solutions to connect your business globally." },
+                { "icon": "Warehousing", "title": "Warehousing", "description": "Secure and scalable storage options to meet your inventory needs." },
+                { "icon": "Transportation", "title": "Transportation", "description": "A modern fleet for safe and timely transport, locally and internationally." }
+            ]
+        },
+        "whyChooseUs": {
+            "title": "Why Choose Us?",
+            "subtitle": "Your trusted partner, ensuring excellence and commitment.",
+            "features": [
+                { "icon": "ProvenExpertise", "title": "Proven Expertise", "description": "Over 25 years of excellence in delivering reliable logistics solutions." },
+                { "icon": "GlobalNetwork", "title": "Global Network", "description": "Extensive reach and strategic partnerships ensure worldwide delivery." },
+                { "icon": "CustomerCentricApproach", "title": "Customer-Centric Approach", "description": "Tailored solutions and dedicated support for your unique business needs." },
+                { "icon": "TimeEfficiency", "title": "Time Efficiency", "description": "Streamlined processes ensure your shipments are on schedule, every time." }
+            ]
+        },
+        "howItWorks": {
+            "title": "How It Works",
+            "subtitle": "Our streamlined 4-step process ensures a seamless logistics experience from start to finish.",
+            "steps": [
+                { "icon": "Consultation", "title": "Consultation & Planning", "description": "We start by understanding your unique needs and creating a custom logistics plan." },
+                { "icon": "Execution", "title": "Execution & Shipping", "description": "Our team handles your shipment, coordinating transport with precision and care." },
+                { "icon": "Tracking", "title": "Tracking & Monitoring", "description": "Stay informed with real-time tracking updates at every stage of the journey." },
+                { "icon": "Delivery", "title": "Successful Delivery", "description": "We ensure your shipment arrives safely and on time at its final destination." }
+            ]
+        },
+        "globalNetwork": {
+            "title": "Our Vast Global Network",
+            "p1": "With a network spanning continents, we ensure your cargo can reach any corner of the globe efficiently and reliably. Our strategic partnerships with global freight forwarders and carriers give us the ability to provide seamless cross-border logistics solutions.",
+            "p2": "Whether your shipment is destined for a major commercial hub or a remote location, our global expertise ensures compliance with local regulations and timely delivery.",
+            "imageAlt": "World map showing logistics network"
+        },
+        "stats": [
+            { "value": "1.2M+", "label": "Successful Shipments" },
+            { "value": "99%", "label": "Customer Satisfaction" },
+            { "value": "150+", "label": "Global Destinations" },
+            { "value": "24/7", "label": "Dedicated Support" }
+        ],
+        "visionMission": {
+            "title": "Our Vision & Mission",
+            "imageAlt": "Shipping containers at a port",
+            "vision": {
+                "title": "Vision",
+                "text": "To be the leading logistics and supply chain partner in the region, renowned for our operational excellence, innovative solutions, and unwavering commitment to client success."
+            },
+            "mission": {
+                "title": "Mission",
+                "text": "To provide reliable, efficient, and customized logistics services that drive our clients' growth. We achieve this through cutting-edge technology, a team of dedicated experts, and a culture of integrity and continuous improvement."
+            }
+        },
+        "cta": {
+            "title": "Ready to Streamline Your Logistics?",
+            "subtitle": "Contact us today for a personalized quote and discover how our expertise can benefit your business.",
+            "button": "Get In Touch"
+        },
+        "testimonials": {
+            "title": "What Our Clients Say",
+            "subtitle": "Decades of excellence reflected in the words of our partners.",
+            "list": [
+                { "name": "Ahmed Khan", "title": "CEO, Global Exports", "avatar": "AK", "image": "https://placehold.co/100x100.png", "dataAiHint": "man portrait", "quote": "Ocean Gates has transformed our supply chain. Their professionalism and efficiency are unmatched. Highly recommended for any business seeking reliable logistics." },
+                { "name": "Fatima Al Sayed", "title": "Supply Chain Manager", "avatar": "FA", "image": "https://placehold.co/100x100.png", "dataAiHint": "woman portrait", "quote": "The customs clearance process was seamless thanks to their expert team. They handled everything with precision and kept us informed every step of the way." },
+                { "name": "Yusuf Ahmed", "title": "Operations Director", "avatar": "YA", "image": "https://placehold.co/100x100.png", "dataAiHint": "man professional", "quote": "Their warehousing solutions are top-notch. Secure, flexible, and perfectly integrated with their transport services. A true end-to-end logistics partner." }
+            ]
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "Your Partner in Global Logistics",
+            "subtitle": "With over two decades of experience, Ocean Gates is a leader in delivering reliable and efficient logistics solutions."
+        },
+        "story": {
+            "badge": "Our Story",
+            "title": "25+ Years of Logistics Excellence",
+            "p1": "Founded over 25 years ago, Ocean Gates started with a simple mission: to simplify logistics for businesses of all sizes. From our humble beginnings, we have grown into a trusted international logistics provider, known for our reliability, expertise, and commitment to our clients.",
+            "p2": "Our journey has been one of continuous growth and adaptation. We've embraced new technologies and expanded our network to meet the evolving demands of global trade, all while staying true to our core values of integrity and service excellence.",
+            "imageAlt": "Team meeting"
+        },
+        "values": {
+            "title": "Our Core Values",
+            "subtitle": "The principles that guide our every move.",
+            "list": [
+                { "icon": "Excellence", "title": "Excellence", "description": "We strive for the highest quality in every service we provide." },
+                { "icon": "Integrity", "title": "Integrity", "description": "Our business is built on transparency, honesty, and trust." },
+                { "icon": "ClientCentric", "title": "Client-Centric", "description": "Our clients' success is our top priority." },
+                { "icon": "Innovation", "title": "Innovation", "description": "We embrace technology to deliver forward-thinking logistics solutions." }
+            ]
+        },
+        "certifications": {
+            "title": "Certifications & Partnerships",
+            "subtitle": "Committed to quality and recognized for our standards.",
+            "list": [
+                "ISO 9001 Certified",
+                "Authorized Economic Operator (AEO)",
+                "Global Logistics Network Member"
+            ]
+        }
+    },
+    "services": {
+        "hero": {
+            "title": "Our Expert Logistics Services",
+            "subtitle": "Tailored solutions designed to optimize your supply chain, from global shipping to local delivery."
+        },
+        "list": [
+          {
+            "icon": "CustomsClearance",
+            "title": "Customs Clearance",
+            "description": "Our experienced team ensures your shipments navigate complex customs regulations smoothly and efficiently. We handle all documentation, duties, and taxes to prevent delays and ensure compliance, providing you with peace of mind and saving valuable time.",
+            "image": "https://placehold.co/500x350.png",
+            "dataAiHint": "customs documents"
+          },
+          {
+            "icon": "InternationalShipping",
+            "title": "International Shipping",
+            "description": "We offer comprehensive international shipping services, including air, sea, and land freight. Our global network and partnerships with leading carriers guarantee reliable, cost-effective, and timely delivery of your cargo to any destination worldwide.",
+            "image": "https://placehold.co/500x350.png",
+            "dataAiHint": "cargo ship"
+          },
+          {
+            "icon": "Warehousing",
+            "title": "Warehousing & Distribution",
+            "description": "Our state-of-the-art warehousing facilities provide secure storage for your goods. We offer flexible short-term and long-term storage, inventory management, and distribution services, fully integrated with our transportation network for a seamless supply chain.",
+            "image": "https://placehold.co/500x350.png",
+            "dataAiHint": "warehouse interior"
+          },
+          {
+            "icon": "LandTransport",
+            "title": "Land Transport",
+            "description": "With a modern and diverse fleet of vehicles, we provide dependable land transport services across the region. From full truckloads (FTL) to less-than-truckloads (LTL), we ensure your goods are transported safely and delivered on schedule.",
+            "image": "https://placehold.co/500x350.png",
+            "dataAiHint": "truck fleet"
+          }
+        ],
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "subtitle": "Answers to common queries about our services.",
+            "list": [
+              {
+                "question": "What documents are required for customs clearance?",
+                "answer": "Typically, you will need a commercial invoice, packing list, bill of lading or air waybill, and any specific permits or licenses required for your goods. Our team will guide you through the exact requirements for your shipment."
+              },
+              {
+                "question": "How can I track my shipment?",
+                "answer": "We provide a tracking number for every shipment. You can use this number on our online portal or contact our customer service team for real-time updates on your shipment's status."
+              },
+              {
+                "question": "Do you handle hazardous materials?",
+                "answer": "Yes, we have certified experts and specialized procedures for handling and transporting hazardous materials in compliance with all international and local regulations."
+              },
+              {
+                "question": "What are your warehousing capacities?",
+                "answer": "Our facilities offer a wide range of storage solutions, from pallet racking to bulk storage. We can accommodate various types of goods and scale our services to meet your specific volume requirements."
+              }
+            ]
+        }
+    },
+    "contact": {
+        "hero": {
+            "title": "Get In Touch",
+            "subtitle": "We're here to help with all your logistics needs. Reach out to us via phone, email, or the contact form below."
+        },
+        "info": {
+            "title": "Contact Information",
+            "office": {
+                "title": "Our Office",
+                "address": "123 Logistics Ave, Jebel Ali Free Zone<br />Dubai, United Arab Emirates"
+            },
+            "email": {
+                "title": "Email Us",
+                "address": "contact@oceangates.com"
+            },
+            "phone": {
+                "title": "Call Us",
+                "number": "+971 4 123 4567"
+            }
+        },
+        "location": {
+            "title": "Our Location",
+            "imageAlt": "Map showing company location"
+        },
+        "form": {
+            "title": "Send us a Message",
+            "name": "Full Name",
+            "email": "Email Address",
+            "subject": "Subject",
+            "message": "Message",
+            "submitButton": "Send Message",
+            "placeholders": {
+                "name": "John Doe",
+                "email": "john.doe@example.com",
+                "subject": "Inquiry about International Shipping",
+                "message": "Please describe your inquiry in detail..."
+            },
+            "validation": {
+                "name": "Name must be at least 2 characters.",
+                "email": "Please enter a valid email address.",
+                "subject": "Subject must be at least 5 characters.",
+                "message": "Message must be at least 10 characters."
+            },
+            "toast": {
+                "title": "Message Sent!",
+                "description": "Thank you for contacting us. We will get back to you shortly."
+            }
+        }
+    }
+}
