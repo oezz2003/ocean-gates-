@@ -141,28 +141,28 @@
             "icon": "CustomsClearance",
             "title": "التخليص الجمركي",
             "description": "يضمن فريقنا المتمرس أن شحناتك تتجاوز لوائح الجمارك المعقدة بسلاسة وكفاءة. نحن نتعامل مع جميع الوثائق والرسوم والضرائب لمنع التأخير وضمان الامتثال، مما يوفر لك راحة البال ويوفر وقتًا ثمينًا.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "/customs-clearance.jpg",
             "dataAiHint": "customs documents"
           },
           {
             "icon": "InternationalShipping",
             "title": "الشحن الدولي",
             "description": "نقدم خدمات شحن دولية شاملة، بما في ذلك الشحن الجوي والبحري والبري. تضمن شبكتنا العالمية وشراكاتنا مع شركات النقل الرائدة تسليمًا موثوقًا وفعالًا من حيث التكلفة وفي الوقت المناسب لبضائعك إلى أي وجهة في جميع أنحاء العالم.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "/international-shipping.jpg",
             "dataAiHint": "cargo ship"
           },
           {
             "icon": "Warehousing",
             "title": "التخزين والتوزيع",
             "description": "توفر مرافق التخزين الحديثة لدينا تخزينًا آمنًا لبضائعك. نقدم تخزينًا مرنًا قصير الأجل وطويل الأجل، وإدارة المخزون، وخدمات التوزيع، متكاملة تمامًا مع شبكة النقل لدينا لسلسلة توريد سلسة.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "/warehousing.png",
             "dataAiHint": "warehouse interior"
           },
           {
             "icon": "LandTransport",
             "title": "النقل البري",
             "description": "من خلال أسطول حديث ومتنوع من المركبات، نقدم خدمات نقل بري يمكن الاعتماد عليها في جميع أنحاء المنطقة. من حمولات الشاحنات الكاملة (FTL) إلى حمولات أقل من شاحنة (LTL)، نضمن نقل بضائعك بأمان وتسليمها في الموعد المحدد.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "land-transport.png",
             "dataAiHint": "truck fleet"
           }
         ],

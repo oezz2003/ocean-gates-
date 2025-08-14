@@ -93,9 +93,9 @@
             "title": "What Our Clients Say",
             "subtitle": "Decades of excellence reflected in the words of our partners.",
             "list": [
-                { "name": "Ahmed Khan", "title": "CEO, Global Exports", "avatar": "AK", "image": "https://placehold.co/100x100.png", "dataAiHint": "man portrait", "quote": "Ocean Gates has transformed our supply chain. Their professionalism and efficiency are unmatched. Highly recommended for any business seeking reliable logistics." },
-                { "name": "Fatima Al Sayed", "title": "Supply Chain Manager", "avatar": "FA", "image": "https://placehold.co/100x100.png", "dataAiHint": "woman portrait", "quote": "The customs clearance process was seamless thanks to their expert team. They handled everything with precision and kept us informed every step of the way." },
-                { "name": "Yusuf Ahmed", "title": "Operations Director", "avatar": "YA", "image": "https://placehold.co/100x100.png", "dataAiHint": "man professional", "quote": "Their warehousing solutions are top-notch. Secure, flexible, and perfectly integrated with their transport services. A true end-to-end logistics partner." }
+                { "name": "Ahmed Khan", "title": "CEO, Global Exports", "avatar": "AK", "image": "/profile.jpg", "dataAiHint": "man portrait", "quote": "Ocean Gates has transformed our supply chain. Their professionalism and efficiency are unmatched. Highly recommended for any business seeking reliable logistics." },
+                { "name": "Fatima Al Sayed", "title": "Supply Chain Manager", "avatar": "FA", "image": "/profile.jpg", "dataAiHint": "woman portrait", "quote": "The customs clearance process was seamless thanks to their expert team. They handled everything with precision and kept us informed every step of the way." },
+                { "name": "Yusuf Ahmed", "title": "Operations Director", "avatar": "YA", "image": "/profile.jpg", "dataAiHint": "man professional", "quote": "Their warehousing solutions are top-notch. Secure, flexible, and perfectly integrated with their transport services. A true end-to-end logistics partner." }
             ]
         }
     },
@@ -141,28 +141,28 @@
             "icon": "CustomsClearance",
             "title": "Customs Clearance",
             "description": "Our experienced team ensures your shipments navigate complex customs regulations smoothly and efficiently. We handle all documentation, duties, and taxes to prevent delays and ensure compliance, providing you with peace of mind and saving valuable time.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "/customs-clearance.jpg",
             "dataAiHint": "customs documents"
           },
           {
             "icon": "InternationalShipping",
             "title": "International Shipping",
             "description": "We offer comprehensive international shipping services, including air, sea, and land freight. Our global network and partnerships with leading carriers guarantee reliable, cost-effective, and timely delivery of your cargo to any destination worldwide.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "/international-shipping.jpg",
             "dataAiHint": "cargo ship"
           },
           {
             "icon": "Warehousing",
             "title": "Warehousing & Distribution",
             "description": "Our state-of-the-art warehousing facilities provide secure storage for your goods. We offer flexible short-term and long-term storage, inventory management, and distribution services, fully integrated with our transportation network for a seamless supply chain.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "/warehousing.png",
             "dataAiHint": "warehouse interior"
           },
           {
             "icon": "LandTransport",
             "title": "Land Transport",
             "description": "With a modern and diverse fleet of vehicles, we provide dependable land transport services across the region. From full truckloads (FTL) to less-than-truckloads (LTL), we ensure your goods are transported safely and delivered on schedule.",
-            "image": "https://placehold.co/500x350.png",
+            "image": "/land-transport.jpg",
             "dataAiHint": "truck fleet"
           }
         ],

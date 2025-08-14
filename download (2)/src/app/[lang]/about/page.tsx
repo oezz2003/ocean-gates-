@@ -30,7 +30,7 @@ export default async function AboutPage({ params: { lang } }: { params: { lang: 
             <AnimatedSection className="py-20">
                 <div className="container mx-auto px-4 md:px-6 grid md:grid-cols-2 gap-12 items-center">
                     <AnimatedSection as="div" direction={lang === 'ar' ? 'left' : 'right'}>
-                        <Image src="https://placehold.co/600x500.png" alt={t.story.imageAlt} width={600} height={500} className="rounded-lg shadow-xl" data-ai-hint="team meeting" />
+                    <Image src="/about-story.jpg" alt={t.story.imageAlt} width={600} height={500} className="rounded-lg shadow-xl" data-ai-hint="team meeting" />
                     </AnimatedSection>
                     <AnimatedSection as="div" direction={lang === 'ar' ? 'right' : 'left'} className="space-y-6">
                         <Badge variant="secondary" className="text-lg py-1 px-3 bg-primary/10 text-primary">{t.story.badge}</Badge>

@@ -45,8 +45,7 @@ export default async function Home({ params: { lang } }: { params: { lang: Local
   return (
     <div className="flex flex-col min-h-screen">
       <section id="hero" className="relative h-screen flex items-center justify-center text-center text-white" dir={lang === 'ar' ? 'rtl' : 'ltr'}>
-        <Image src="https://placehold.co/1920x1080.png" alt={t.hero.imageAlt} fill className="object-cover z-0" data-ai-hint="logistics truck" />
-        <div className="absolute inset-0 bg-black/60 z-10"></div>
+      <Image src="/hero-banner.jpg" alt={t.hero.imageAlt} fill className="object-cover z-0" data-ai-hint="logistics truck" />        <div className="absolute inset-0 bg-black/60 z-10"></div>
         <div className="relative z-20 container mx-auto px-4 animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl font-bold font-headline mb-4">
             {t.hero.title}
@@ -145,7 +144,7 @@ export default async function Home({ params: { lang } }: { params: { lang: Local
       <AnimatedSection id="global-network" className="py-20 bg-card" dir={lang === 'ar' ? 'rtl' : 'ltr'}>
         <div className="container mx-auto px-4 md:px-6 grid md:grid-cols-2 gap-12 items-center">
           <AnimatedSection as="div" direction={lang === 'ar' ? 'left' : 'right'}>
-            <Image src="https://placehold.co/600x450.png" alt={t.globalNetwork.imageAlt} width={600} height={450} className="rounded-lg shadow-xl" data-ai-hint="world map logistics" />
+          <Image src="/global-network.jpg" alt={t.globalNetwork.imageAlt} width={600} height={450} className="rounded-lg shadow-xl" data-ai-hint="world map logistics" />
           </AnimatedSection>
           <AnimatedSection as="div" direction={lang === 'ar' ? 'right' : 'left'} className="space-y-6">
             <div className="flex items-center gap-4">
@@ -194,8 +193,7 @@ export default async function Home({ params: { lang } }: { params: { lang: Local
             </div>
           </AnimatedSection>
           <AnimatedSection as="div" direction={lang === 'ar' ? 'right' : 'left'}>
-            <Image src="https://placehold.co/600x500.png" alt={t.visionMission.imageAlt} width={600} height={500} className="rounded-lg shadow-xl" data-ai-hint="shipping containers" />
-          </AnimatedSection>
+          <Image src="/vision-mission.jpg" alt={t.visionMission.imageAlt} width={600} height={500} className="rounded-lg shadow-xl" data-ai-hint="shipping containers" />          </AnimatedSection>
         </div>
       </AnimatedSection>
 

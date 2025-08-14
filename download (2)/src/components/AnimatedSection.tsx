@@ -10,13 +10,17 @@ interface AnimatedSectionProps {
   className?: string;
   as?: React.ElementType;
   direction?: AnimationDirection;
+  id?: string;
+  dir?: string;
 }
 
 export default function AnimatedSection({ 
   children, 
   className, 
   as: Tag = 'section',
-  direction = 'up' 
+  direction = 'up', 
+  id,
+  dir
 }: AnimatedSectionProps) {
   const [isVisible, setIsVisible] = useState(false);
   const sectionRef = useRef<HTMLElement>(null);
@@ -57,6 +61,8 @@ export default function AnimatedSection({
   return (
     <Tag
       ref={sectionRef}
+      id={id}
+      dir={dir}
       className={cn(
         'section-animate',
         animationClass,

@@ -11,6 +11,7 @@ import type { Dictionary } from '@/lib/i18n/get-dictionary';
 import { usePathname } from 'next/navigation';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
+import Image from 'next/image';
 
 export default function Header({ lang, dictionary }: { lang: Locale; dictionary: Dictionary['header'] }) {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -44,7 +45,13 @@ export default function Header({ lang, dictionary }: { lang: Locale; dictionary:
         <div className="container mx-auto">
           <div className="flex h-16 w-full items-center justify-between px-4 md:px-6">
             <Link href={`/${lang}`} className="flex items-center gap-2 font-bold text-xl text-primary">
-              <Ship className="h-7 w-7" />
+            <Image 
+  src="/logo.png" 
+  alt="شعار ابواب المحيط"
+  width={28} 
+  height={28} 
+  className="h-7 w-7"
+/>
               <span className="font-headline">{dictionary.brand}</span>
             </Link>
             <nav className="flex items-center gap-6 text-lg font-medium">
@@ -88,7 +95,13 @@ export default function Header({ lang, dictionary }: { lang: Locale; dictionary:
               <div className="flex flex-col gap-6 p-6">
                 <div className="flex justify-between items-center">
                     <Link href={`/${lang}`} className="flex items-center gap-2 font-bold text-xl text-primary">
-                      <Ship className="h-7 w-7" />
+                    <Image 
+  src="/logo.png" 
+  alt="شعار ابواب المحيط"
+  width={28} 
+  height={28} 
+  className="h-7 w-7"
+/>
                       <span className="font-headline">{dictionary.brand}</span>
                     </Link>
                     <LanguageSwitcher lang={lang} />

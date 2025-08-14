@@ -53,7 +53,7 @@ export default async function ContactPage({ params: { lang } }: { params: { lang
               <h2 className="text-3xl font-bold font-headline mb-6">{t.location.title}</h2>
               <div className="aspect-video w-full rounded-lg overflow-hidden shadow-xl border border-border">
                 <Image
-                  src="https://placehold.co/600x400.png"
+                  src="/contact.jpg"
                   alt={t.location.imageAlt}
                   width={600}
                   height={400}
